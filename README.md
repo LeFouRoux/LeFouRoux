@@ -1,4 +1,4 @@
 - 👋 Salut, I’m @LeFouRoux
-- 👀 Je suis apprentissage Développeur JavaScript
+- 👀 Je suis apprentis Developpeur JavaScript
 - 🌱 Je veut apprendre la .lua et le .js
 - 📫 Discord : ʍΛ™#8888 | discord.gg/mysthack
