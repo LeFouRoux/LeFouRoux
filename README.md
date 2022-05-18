@@ -1,11 +1,11 @@
-# LeFouRoux | Maxou | ʍΛ™#8888
+# LeFouRoux | Maxou | Maxou#1036
 -----------------
 ## Description :
 
-- 👋 Salut, I’m @LeFouRoux
+- 👋 Salut, I’m @Maxou
 - 👀 Je suis apprentis Developpeur JavaScript
 - 🌱 Je veut apprendre la .lua et le .js
-- 📫 Discord : ʍΛ™#8888 | discord.gg/mysthack
+- 📫 Discord : Maxou#1036 | discord.gg/mysthack
 
 -----------------
 ## Langue principale :
@@ -15,5 +15,4 @@
 -----------------
 ## Site :
 
-Rendez-vous sur [DataLeak](https://leakbase.forumactif.com/) !
-
+Rendez-vous sur [Maxou's Site](https://maxou.adkynet.eu/) !
