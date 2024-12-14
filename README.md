@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zl_maxoulfr" target="blank"><img src="https://img.shields.io/twitter/follow/zl_maxoulfr?logo=twitter&style=for-the-badge" alt="zl_maxoulfr" /></a> </p>
 
-- 📫 Discord : Maxou#1036 | discord.gg/mGaBFzm2zX [Mysthack's Family](https://discord.gg/mGaBFzm2zX)
+- 📫 Discord : Maxoulfr_| https://discord.gg/qTeUUaBKWe [Ice](https://discord.gg/qTeUUaBKWe)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
